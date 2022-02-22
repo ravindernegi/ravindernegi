@@ -1,4 +1,4 @@
-##Hi There
+## Hi There
 
 I am a Full Stack Developer and working as a Freelancer & Content Creator
 
@@ -10,6 +10,6 @@ I am a Full Stack Developer and working as a Freelancer & Content Creator
 * **Shopify App Development**
 * **Mobile App Development with React Native**
 
-Contact me for Outsource and Freelance Work : 
+Contact me for Outsource and Freelance Work : <br/>
 :globe_with_meridians: https://ravindernegi.com <br/>
 Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
