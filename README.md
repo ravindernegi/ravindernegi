@@ -13,3 +13,10 @@ I am a Full Stack Developer and working as a Freelancer & Content Creator
 Contact me for Outsource and Freelance Work : <br/>
 :globe_with_meridians: https://ravindernegi.com <br/>
 Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
+
+** 🛠️ My Gadgets : 👇
+🎙️Mic: https://amzn.to/30mKreF
+💻 Laptop : https://amzn.to/2YRvYah
+Pen Tablet: https://amzn.to/3njqrCz
+
+** I Personally use WebHosting 👉 [!Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
