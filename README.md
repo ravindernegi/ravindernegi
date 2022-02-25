@@ -19,4 +19,4 @@ Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
 * 💻 Laptop : https://amzn.to/2YRvYah
 * Pen Tablet: https://amzn.to/3njqrCz
 
-**I Personally use WebHosting** 👉 [!Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
+**I Personally use WebHosting** 👉 [Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
