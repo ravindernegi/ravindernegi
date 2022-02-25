@@ -11,12 +11,13 @@ I am a Full Stack Developer and working as a Freelancer & Content Creator
 * **Mobile App Development with React Native**
 
 **Contact me for Outsource and Freelance Work** : 👇
-* :globe_with_meridians: https://ravindernegi.com 
-* Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
+* :globe_with_meridians: 👉 https://ravindernegi.com 
+* Youtube : 👉 https://www.youtube.com/c/TotallyHindiMeinJankari
 
 🛠️ **My Gadgets** : 👇
 * 🎙️ Mic: https://amzn.to/30mKreF
 * 💻 Laptop : https://amzn.to/2YRvYah
-* Pen Tablet: https://amzn.to/3njqrCz
+* 📝 Pen Tablet: https://amzn.to/3njqrCz
+* 📗 Best Book : https://amzn.to/3GBuWiV
 
 **I Personally use WebHosting** 👉 [Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
