@@ -15,8 +15,8 @@ Contact me for Outsource and Freelance Work : <br/>
 Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
 
 ** 🛠️ My Gadgets : 👇
-🎙️Mic: https://amzn.to/30mKreF
-💻 Laptop : https://amzn.to/2YRvYah
-Pen Tablet: https://amzn.to/3njqrCz
+* 🎙️Mic: https://amzn.to/30mKreF
+* 💻 Laptop : https://amzn.to/2YRvYah
+* Pen Tablet: https://amzn.to/3njqrCz
 
-** I Personally use WebHosting 👉 [!Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
+**I Personally use WebHosting** 👉 [!Hostinger](http://www.hostinger.com/RAVINDERNEGI) 
