@@ -10,12 +10,12 @@ I am a Full Stack Developer and working as a Freelancer & Content Creator
 * **Shopify App Development**
 * **Mobile App Development with React Native**
 
-Contact me for Outsource and Freelance Work : <br/>
-:globe_with_meridians: https://ravindernegi.com <br/>
-Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
+**Contact me for Outsource and Freelance Work** : 👇
+* :globe_with_meridians: https://ravindernegi.com 
+* Youtube : https://www.youtube.com/c/TotallyHindiMeinJankari
 
-** 🛠️ My Gadgets : 👇
-* 🎙️Mic: https://amzn.to/30mKreF
+🛠️ **My Gadgets** : 👇
+* 🎙️ Mic: https://amzn.to/30mKreF
 * 💻 Laptop : https://amzn.to/2YRvYah
 * Pen Tablet: https://amzn.to/3njqrCz
 
