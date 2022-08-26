@@ -3,7 +3,6 @@
 I am a Full Stack Developer and working as a Freelancer & Content Creator
 
 - :point_right: I am currently working on ReactJs and Nextjs
-- :point_right: I am currently learning Blogging
 - :point_right: I offer Following Services :
 * **MERN Stack Development**
 * **Progressive Web App Development**
