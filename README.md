@@ -1,6 +1,6 @@
 ## Hi There
 
-I am a Full Stack Developer and working as a Freelancer & Content Creator
+I am a Full Stack Developer & Content Creator
 
 - :point_right: I am currently working on ReactJs and Nextjs
 - :point_right: I offer Following Services :
