@@ -3,15 +3,15 @@
 I am a Full Stack Developer & Content Creator
 
 - :point_right: I am currently working on ReactJs and Nextjs
-- :point_right: I offer Following Services :
-* **MERN Stack Development**
-* **Progressive Web App Development**
-* **Shopify App Development**
-* **Mobile App Development with React Native**
+- :point_right: My Skills :
+* **Javascript | Typescript**
+* **HTML | CSS | SASS**
+* **NodeJs | ExpressJs | Graphql**
+* **Reactjs | NextJs | React Query**
 
-**Contact me for Outsource and Freelance Work** : 👇
+** You can contact on ** : 👇
 * :globe_with_meridians: 👉 https://ravindernegi.com 
-* Youtube : 👉 https://www.youtube.com/c/TotallyHindiMeinJankari
+* Youtube : 👉 https://www.youtube.com/c/codewithnegi
 
 🛠️ **My Gadgets** : 👇
 * 🎙️ Mic: https://amzn.to/30mKreF
