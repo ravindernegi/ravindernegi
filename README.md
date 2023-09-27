@@ -11,7 +11,7 @@ I am a Full Stack Developer & Content Creator
 
 ** You can contact on ** : 👇
 * :globe_with_meridians: 👉 https://ravindernegi.com 
-* Youtube : 👉 https://www.youtube.com/c/codewithnegi
+* Youtube : 👉 [https://www.youtube.com/c/codewithnegi](https://www.youtube.com/@codewithnegi)
 
 🛠️ **My Gadgets** : 👇
 * 🎙️ Mic: https://amzn.to/30mKreF
