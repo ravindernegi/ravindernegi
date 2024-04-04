@@ -6,8 +6,9 @@ I am a Full Stack Developer & Content Creator
 - :point_right: My Skills :
 * **Javascript | Typescript**
 * **HTML | CSS | SASS**
-* **NodeJs | ExpressJs | Graphql**
 * **Reactjs | NextJs | React Query**
+* **MUI5 | HighCharts | AgGrid**
+* **NodeJs | ExpressJs | Graphql**
 
 ** You can contact on ** : 👇
 * :globe_with_meridians: 👉 https://ravindernegi.com 
