@@ -6,7 +6,7 @@ I am a Full Stack Developer & Content Creator
 - :point_right: My Skills :
 * **Javascript | Typescript**
 * **HTML | CSS | SASS**
-* **Reactjs | NextJs | React Query**
+* **Reactjs | NextJs | Redux | React Query**
 * **MUI5 | HighCharts | AgGrid | Ant Design | Bootstrap | Tailwind CSS**
 * **NodeJs | ExpressJs | Graphql | MongoDb | Python**
 
