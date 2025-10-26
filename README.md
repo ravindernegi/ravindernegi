@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer & Content Creator
 
-- :point_right: I am currently working on ReactJs and Nextjs
+- :point_right: I am currently working on ReactJs and NodeJS
 - :point_right: My Skills :
 * **Javascript | Typescript | Python**
 * **HTML | CSS | SASS**
