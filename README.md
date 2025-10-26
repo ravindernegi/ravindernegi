@@ -4,11 +4,14 @@ I am a Full Stack Developer & Content Creator
 
 - :point_right: I am currently working on ReactJs and Nextjs
 - :point_right: My Skills :
-* **Javascript | Typescript**
+* **Javascript | Typescript | Python**
 * **HTML | CSS | SASS**
 * **Reactjs | NextJs | Redux | React Query**
 * **MUI5 | HighCharts | AgGrid | Ant Design | Bootstrap | Tailwind CSS**
-* **NodeJs | ExpressJs | Graphql | MongoDb | Python**
+* **NodeJs | ExpressJs | Graphql**
+* **MongoDB | Postgresql | MySQL**
+* **AWS**
+
 
 ** You can contact on ** : 👇
 * :globe_with_meridians: 👉 https://ravindernegi.com 
