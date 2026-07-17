@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ravinder Negi
+# Hi 👋 I'm Ravinder Singh
 
 **Tech Lead | Backend & Cloud Engineering | AI-Assisted Software Development**
 
