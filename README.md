@@ -1,26 +1,78 @@
-## Hi There
+# Hi 👋 I'm Ravinder Negi
 
-I am a Full Stack Developer & Content Creator
+**Tech Lead | Backend & Cloud Engineering | AI-Assisted Software Development**
 
-- :point_right: I am currently working on ReactJs and NodeJS
-- :point_right: My Skills :
-* **Javascript | Typescript | Python**
-* **HTML | CSS | SASS**
-* **Reactjs | NextJs | Redux | React Query**
-* **MUI5 | HighCharts | AgGrid | Ant Design | Bootstrap | Tailwind CSS**
-* **NodeJs | ExpressJs | Graphql**
-* **MongoDB | Postgresql | MySQL**
-* **AWS**
+I build scalable applications, backend services, and modern cloud-native solutions.
 
+With 15+ years of software engineering experience, I enjoy solving architecture, performance, and scalability challenges while continuously exploring cloud infrastructure, automation, and AI-powered development workflows.
 
-** You can contact on ** : 👇
-* :globe_with_meridians: 👉 https://ravindernegi.com 
-* Youtube : 👉 [https://www.youtube.com/c/codewithnegi](https://www.youtube.com/@codewithnegi)
+## 🚀 Current Focus
 
-🛠️ **My Gadgets** : 👇
-* 🎙️ Mic: https://amzn.to/30mKreF
-* 💻 Laptop : https://amzn.to/2YRvYah
-* 📝 Pen Tablet: https://amzn.to/3njqrCz
-* 📗 Best Book : https://amzn.to/3GBuWiV
+* Backend Engineering with Node.js & TypeScript
+* Cloud Development on AWS
+* Database Design & Performance Optimization
+* Docker & Containerized Applications
+* CI/CD Pipelines
+* System Design & Solution Architecture
+* AI-assisted Software Engineering
+* Building Production-ready Applications
 
+## 💻 Tech Stack
 
+### Languages
+
+* JavaScript
+* TypeScript
+* Python
+
+### Frontend
+
+* React
+* Next.js
+* Redux
+* React Query
+* HTML
+* CSS
+* Tailwind CSS
+* Material UI
+* Ant Design
+
+### Backend
+
+* Node.js
+* Express.js
+* GraphQL
+* REST APIs
+* Authentication & Authorization
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* GitHub Actions
+* CI/CD
+* Linux
+* Nginx
+* Infrastructure Fundamentals
+* Cloud-native Application Development
+
+### Currently Exploring
+
+* Infrastructure as Code (Terraform)
+* Kubernetes
+* AWS Architecture Patterns
+* Observability
+* Platform Engineering
+
+## 🌐 Connect
+
+* Website: https://ravindernegi.com
+* YouTube: https://www.youtube.com/@codewithnegi
+
+I enjoy learning in public, sharing knowledge, and building production-quality software.
