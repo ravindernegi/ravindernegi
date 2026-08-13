@@ -20,39 +20,22 @@ With 15+ years of software engineering experience, I enjoy solving architecture,
 ## 💻 Tech Stack
 
 ### Languages
-
 * JavaScript
 * TypeScript
 * Python
 
-### Frontend
-
-* React
-* Next.js
-* Redux
-* React Query
-* HTML
-* CSS
-* Tailwind CSS
-* Material UI
-* Ant Design
-
 ### Backend
-
 * Node.js
-* Express.js
-* GraphQL
-* REST APIs
+* Nest.js | Fast API 
+* REST APIs | GraphQL
 * Authentication & Authorization
 
 ### Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
+* PostgreSQL | MySQL
+* MongoDB | DynamoDB
+* 
 
 ### Cloud & DevOps
-
 * AWS
 * Docker
 * GitHub Actions
@@ -61,9 +44,19 @@ With 15+ years of software engineering experience, I enjoy solving architecture,
 * Nginx
 * Infrastructure Fundamentals
 * Cloud-native Application Development
+  
+### Frontend
+* React
+* Next.js
+* Redux
+* React Query
 
+# AI Tools
+* Claude Code
+* Cursor AI
+* GitHub Copilot
+  
 ### Currently Exploring
-
 * Infrastructure as Code (Terraform)
 * Kubernetes
 * AWS Architecture Patterns
